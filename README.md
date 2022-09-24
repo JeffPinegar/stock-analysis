@@ -1,2 +1,2 @@
 # stock-analysis
-Bootcamp  Week 2 VBA
+Analysis of stock data using VBA
